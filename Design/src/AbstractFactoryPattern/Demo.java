@@ -2,6 +2,9 @@ package AbstractFactoryPattern;
 
 import FactoryPattern.Shape;
 
+/**
+ * 抽象工厂
+ */
 public class Demo {
     public static void main(String[] args){
         FactoryProducer factoryProducer = new FactoryProducer();

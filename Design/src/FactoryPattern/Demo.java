@@ -1,5 +1,8 @@
 package FactoryPattern;
 
+/**
+ * 工厂模式
+ */
 public class Demo {
     public static void main(String[] args){
         ShapeFactory shapeFactory = new ShapeFactory();
